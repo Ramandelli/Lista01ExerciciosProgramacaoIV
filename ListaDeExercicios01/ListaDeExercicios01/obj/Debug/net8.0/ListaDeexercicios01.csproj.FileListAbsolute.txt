@@ -1,0 +1,14 @@
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\bin\Debug\net8.0\ListaDeexercicios01.exe
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\bin\Debug\net8.0\ListaDeexercicios01.deps.json
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\bin\Debug\net8.0\ListaDeexercicios01.runtimeconfig.json
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\bin\Debug\net8.0\ListaDeexercicios01.dll
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\bin\Debug\net8.0\ListaDeexercicios01.pdb
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.AssemblyInfoInputs.cache
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.AssemblyInfo.cs
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.csproj.CoreCompileInputs.cache
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.dll
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\refint\ListaDeexercicios01.dll
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.pdb
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ListaDeexercicios01.genruntimeconfig.cache
+C:\Users\Ramandelli\source\repos\ListaDeexercicios01\ListaDeexercicios01\obj\Debug\net8.0\ref\ListaDeexercicios01.dll
